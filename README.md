@@ -25,5 +25,7 @@ P'   MM   `7   MM                      MM    `Yb.                          MM   
 - firebase login
 - 
 
+### On Change
+- firebase deploy --only functions
 
 
