@@ -46,13 +46,18 @@ The-DareDevil-Watch is a APP to watch for Events subscribed via website.
 ## Firebase commands
 
 ### On Init
-- npm install -g firebase-tools
-- firebase logout   #signout of existing accounts
-- firebase login    #sign in and register app
+
+```bash
+npm install -g firebase-tools
+firebase logout   #signout of existing accounts
+firebase login    #sign in and register app
+```
 
 ### On Change
-- firebase deploy --only functions  #deploy to Firebase
-- firebase serve --only functions   #local server
+```bash
+firebase deploy --only functions  #deploy to Firebase
+firebase serve --only functions   #local server
+```
 
 ## Misc
 
